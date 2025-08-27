@@ -1,0 +1,5 @@
+This will become a whitepaper soon. 
+
+-> work in progress. 
+
+contract owner = 0 (no changes in contract possible anymore)
