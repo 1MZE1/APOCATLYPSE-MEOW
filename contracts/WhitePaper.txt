@@ -1,6 +1,6 @@
 APOCATLYPSE MEOW (APOCAT)
 
-The Purr-fect Apocalypse Survival Memecoin
+The ApoCATlypse Survival Memecoin
 
 Abstract
 need a currency to trade tuna cans, laser pointers, and cozy bunkers? Enter APOCATLYPSE MEOW (APOCAT) — an ERC-20 memecoin designed for pure fun, full decentralization, and community-driven growth. Built with transparency, no taxes, a fixed supply, and ownership renounced to the zero address, APOCAT is more than a token: it’s a movement for the survivors of the catpocalypse.
@@ -27,19 +27,25 @@ Ownership is renounced, meaning no single entity controls minting, supply change
 Fair Launch – No Insider Advantage
 to prevent snipe of big chunks, most of the coins will not be added to liquidity pool upfront.
 
-Burnable – Deflationary by Choice
-Holders can reduce circulating supply by burning their APOCAT. Every burn increases scarcity.
+-> Coin already Tradeable on Uniswap and Sushiswap.
+-> LOGO REALEASED ON COINGECKO 28.08.
 
 
 Tokenomics
 
 Total Supply: 690,420 APOCAT
-Liquidity Pool Allocation: 10%-30% to ensure initial liquidity and fair market dynamics.
+Liquidity Pool Allocation: not all of the coins to prevent sniping , lot of small buys we want to find, thats a cat, not a whale token.
 No team wallets, no presale allocations, no hidden dev taxes. Pure memecoin energy.
+
+Projects : 
+- Discord BOT -> Trading and Scalping APOCAT
+- WEB3 APOCAT game to earn tokens by breaking records and playing.
 
 
 Disclaimer
 APOCAT is a memecoin created for fun. It is not an investment vehicle, security, or guarantee of value. Buy, hold, or burn at your own risk.
 
 Conclusion
-The world might end, but memes will survive. With APOCATLYPSE MEOW (APOCAT).
+The world might seems to end, but memes and cats will survive.
+
+APOCATLYPSE MEOW (APOCAT)
