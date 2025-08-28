@@ -5,7 +5,7 @@ The ApoCATlypse Survival Memecoin
 
 Abstract
 
-The world is on the brink of collapse, laser pointers are running scarce, and tuna cans have become the new gold standard. In the middle of the chaos, a new coin emerges: APOCATLYPSE MEOW (APOCAT).
+The world is on the brink of collapse, laser pointers are running scarce, and tuna cans have become the new gold standard. In the middle of the chaos,  APOCAT.
 
 An ERC-20 memecoin built on chaos and AI.
 No taxes, fixed supply, ownership renounced.
