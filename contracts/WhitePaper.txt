@@ -1,51 +1,49 @@
-APOCATLYPSE MEOW (APOCAT)
+🐾 APOCATLYPSE MEOW (APOCAT) 😼 
 
 The ApoCATlypse Survival Memecoin
 
-Abstract
-need a currency to trade tuna cans, laser pointers, and cozy bunkers? Enter APOCATLYPSE MEOW (APOCAT) — an ERC-20 memecoin designed for pure fun, full decentralization, and community-driven growth. Built with transparency, no taxes, a fixed supply, and ownership renounced to the zero address, APOCAT is more than a token: it’s a movement for the survivors of the catpocalypse.
 
+Abstract
+
+The world is on the brink of collapse, laser pointers are running scarce, and tuna cans have become the new gold standard. In the middle of the chaos, a new coin emerges: APOCATLYPSE MEOW (APOCAT).
+
+An ERC-20 memecoin built on chaos and AI.
+No taxes, fixed supply, ownership renounced.
 
 Token Overview
-
 Name: APOCATLYPSE MEOW
 Symbol: APOCAT
 Standard: ERC-20 (Ethereum)
 Total Supply: 690,420 APOCAT
-Contract: Immutable — ownership renounced (0x000000...)
+Contract: Immutable – ownership renounced (0x0000…)
 Fees: 0% (no buy, sell, or transfer taxes)
-Supply Model: Fixed, with optional burning by holders
+Supply Model: Fixed – holders can burn if they wish
 
 Core Features
+Fixed Supply: Only 690,420 APOCAT will ever exist. Meme-number locked forever.
+No Dev Tricks: Ownership renounced. No secret functions, no extra mint button.
+Fair Chaos Launch: No presale, no team wallets, no insider deals. Liquidity wasn’t all dropped at once → we want cats, not whales.
 
-Fixed Supply
-Only 690,420 APOCAT will ever exist. This number is both meme-worthy and locked forever.
-
-No Changes to Contract
-Ownership is renounced, meaning no single entity controls minting, supply changes, or sneaky modifications.
-
-Fair Launch – No Insider Advantage
-to prevent snipe of big chunks, most of the coins will not be added to liquidity pool upfront.
-
--> Coin already Tradeable on Uniswap and Sushiswap.
--> LOGO REALEASED ON COINGECKO 28.08.
-
+Already Alive:
+Tradeable on Uniswap & Sushiswap
+Logo listed on CoinGecko (28.08.)
 
 Tokenomics
-
 Total Supply: 690,420 APOCAT
-Liquidity Pool Allocation: not all of the coins to prevent sniping , lot of small buys we want to find, thats a cat, not a whale token.
-No team wallets, no presale allocations, no hidden dev taxes. Pure memecoin energy.
+Liquidity Pool Allocation: Chaotic (added gradually, anti-snipe friendly)
 
-Projects : 
-- Discord BOT -> Trading and Scalping APOCAT
-- WEB3 APOCAT game to earn tokens by breaking records and playing.
-
+Projects & Utility (work in progress – chaos style)
+-Discord Bot → APOCAT trading & scalping functions
+-Web3 Mini-Game → Score-breaking & earn mechanics in development
+-Future Lore & Chaos Collabs → unpredictable by design
 
 Disclaimer
-APOCAT is a memecoin created for fun. It is not an investment vehicle, security, or guarantee of value. Buy, hold, or burn at your own risk.
+APOCAT is a memecoin created for fun, chaos, and cat-lore.
+It is not an investment, not a security, not a guarantee of value.
+Buy, hold, or burn at your own risk.
 
 Conclusion
-The world might seems to end, but memes and cats will survive.
+The world may end – but cats and memes will always survive.
+In the ApoCATlypse, we don’t trade in dollars or gold. We trade in tuna cans, laser pointers, and APOCAT.
 
-APOCATLYPSE MEOW (APOCAT)
+APOCATLYPSE MEOW (APOCAT) – Survive the Chaos, Meow the Future.
